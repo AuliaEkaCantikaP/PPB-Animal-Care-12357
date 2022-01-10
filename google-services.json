@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "408284949671",
+    "firebase_url": "https://petscare-940a9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "petscare-940a9",
+    "storage_bucket": "petscare-940a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408284949671:android:5719ae7c2673821de03f82",
+        "android_client_info": {
+          "package_name": "com.example.petscare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408284949671-bs7m7pfjdcq1gjg45p9uetdm1qb008u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA25nE7mDBVBSxFdf0gTkx79rgqmwmXlWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408284949671-bs7m7pfjdcq1gjg45p9uetdm1qb008u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
